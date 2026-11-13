@@ -1,0 +1,4 @@
+pydirectinput
+numpy
+soundcard
+warnings
